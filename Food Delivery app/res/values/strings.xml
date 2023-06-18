@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Food Menu</string>
+    <string name="info">Information</string>
+    <string name="name">Fast Food Truck</string>
+    <string name="call">Call us: 888-8888</string>
+    <string name="burger">Chicken Burger</string>
+    <string name="burgerdesc"> These fresh, flavorful chicken burgers have a crunchy exterior, a tender interior and a healthy slathering of mayonnaise and toppings such as onion , tomato and lettuce. Enjoy these burgers with potato chips!</string>
+
+    <string name="pizza">Margherita Pizza</string>
+    <string name="pizzadesc">Pizza margherita, as the Italians call it, is a simple pizza hailing from Naples. It features a bubbly crust, crushed San Marzano tomato sauce, fresh mozzarella and basil, a drizzle of olive oil, and a sprinkle of salt. </string>
+
+    <string name="fries">French Fries</string>
+    <string name="friesdesc"> French fries are made from deep-fried potatoes that have been cut into thin strips. Fries are salted and served with variety of items, including ketchup, mayonnaise, or vinegar.</string>
+
+    <string name="nuggets">Chicken Nuggets</string>
+    <string name="nuggetsdesc">Chicken nuggets are pieces of  de-boned chicken meat that is breaded or battered, then deep-fried or baked. Invented in the 1950s, chicken nuggets have become a very popular fast food restaurant item</string>
+
+    <string name="tacos">Shrimp Tacos</string>
+    <string name="tacosdesc">Fresh and delicious, these easy shrimp tacos comes complete with a slightly spicy avocado crema, spicy shrimp, and a homemade creamy lime slaw. </string>
+
+    <string name="warning">This item contains Allergen(shellfish). Do you still want to proceed? </string>
+    <string name="yes"> yes </string>
+    <string name="no">no</string>
+    <string name="name1">Name</string>
+    <string name="desc">Description</string>
+</resources>
