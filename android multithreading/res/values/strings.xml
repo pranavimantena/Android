@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">androidmultithreading</string>
+    <string name="enterPrompt">Enter URL:</string>
+    <string name="runnable">Run Runnable</string>
+    <string name="message">Run Message</string>
+    <string name="async">Run Async</string>
+    <string name="reset">Reset Image</string>
+</resources>
